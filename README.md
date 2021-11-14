@@ -1,2 +1,1 @@
-# sharad
-Personal repo
+Well Hello there 👋
